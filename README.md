@@ -1,24 +1,24 @@
-# Community list of companies working with drones in Switzerland in geospatial industry, geomatics, civil-engineering, agriculture, navigation, forestry, geology, architecture, cultural heritage, architecture, etc.
+# Community list of companies working with drones in Switzerland
 
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Swizerland_drone_companies/pulls) or an [issue](https://github.com/mvarga1989/Swizerland_drone_companies/issues).
 
-| Company Name | Website                                                |
+| Company Name | Website  |
 |--------------|------------------------------------------------------------|
-| Aero41       | www.aero41.com                                            |
-| AirMap       | www.airmap.com                                            |
-| Anavia       | www.anavia.eu/en                                          |
-| Auror-Aero   | www.auror-aero.ch   |
-| Auterion     | www.auterion.com                                          |
-| Certx        | www.certx.com                                             |
-| Daedalean AI | www.daedalean.ai                                           |
-| Digitsky Solutions | www.digitskysolutions.com |
+| Aero41   | www.aero41.com  |
+| AirMap   | www.airmap.com  |
+| Anavia   | www.anavia.eu/en  |
+| Atl | www.atl.ch |
+| Aurora-Aero   | www.aurora-aero.ch/   |
+| Auterion   | www.auterion.com  |
+| Certx  | www.certx.com   |
+| Daedalean AI | www.daedalean.ai   |
 | Dpendent | www.dpendent.ch |
 | Dromote | www.dromote.com |
 | Drone Harmony | www.droneharmony.com |
-| Dronistics EPFL | www.dronistics.epfl.ch |
+| Dronistics | www.dronistics.ch/ |
 | Drone Logbook | www.dronelogbook.com |
 | Dufour Aero | www.dufour.aero |
-| Fixpositions | www.fixpositions.ch |
+| Fixpositions | www.fixpositions.com |
 | Flarm | www.flarm.com |
 | Flyability | www.flyability.com |
 | Flybotix | www.flybotix.com |
@@ -29,7 +29,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 | Mttr | www.mttr.net |
 | Maxon Group | www.maxongroup.com |
 | Meteo Labor | www.meteolabor.ch |
-| Mateomatics | www.mateomatics.com |
+| Meteomatics | www.meteomatics.com |
 | Murzilli Consulting | www.murzilliconsulting.com |
 | Open Stratosphere | www.openstratosphere.com |
 | Radiate | www.radiate.ch |
@@ -37,17 +37,15 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 | Rheinmetall | www.rheinmetall.com |
 | Safeli | www.safeli.ch |
 | SenseFly | www.sensefly.com |
-| Skypull | www.skypull.com |
 | Soraconsulting | www.soraconsulting.ch |
 | Suind | www.suind.com |
 | Sulzerschmid | www.sulzerschmid.ch |
-| Sunflower Labs | www.sunflower-labs.com |
 | Swiss Aerobotics | www.swissaerobotics.com |
 | Swiss Drones | www.swissdrones.com |
 | Tinamu Labs | www.tinamu-labs.com |
 | Twingtec | www.twingtec.ch |
 | UASolutions | www.uasolutions.ch |
-| Uaventure | www.uaventure.com |
+| Uaventure | http://uaventure.com/ |
 | UAVOS | www.uavos.com |
 | Uzufly | www.uzufly.com |
 | Verity Studios | www.veritystudios.com |
@@ -57,4 +55,3 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 | Werobotics | www.werobotics.org |
 | Windshape | www.windshape.ch |
 | Wingtra | www.wingtra.com |
-| Atl | www.atl.ch |
