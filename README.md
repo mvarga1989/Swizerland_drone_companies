@@ -1,4 +1,4 @@
-# Community list of companies working with drones in Switzerland
+# Community list of companies working with drones (UAV) in Switzerland
 
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Swizerland_drone_companies/pulls) or an [issue](https://github.com/mvarga1989/Swizerland_drone_companies/issues).
 
@@ -55,3 +55,5 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 | Werobotics | www.werobotics.org |
 | Windshape | www.windshape.ch |
 | Wingtra | www.wingtra.com |
+
+#drones, #uav, #dronepilot, #aerialphotography, #droneoperator, #droneindustry, #dronebusiness, #droneinspection, #droneagriculture, #droneconstruction, #dronemapping, #dronefilming, #droneinsurance, #droneregulation, #droneeducation, #droneenthusiast, #droneinspections, #droneflight, #droneimagery, #dronefarming, #dronejobs
